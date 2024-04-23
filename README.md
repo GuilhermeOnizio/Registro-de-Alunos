@@ -19,9 +19,9 @@ Inicialização do projeto em sua máquina:
 
 Para isso, você deve abrir o terminal no projeto e escrever o seguinte comando:
 
-- npm i
++ npm i
 Com isso, todas as dependências serão instaladas em sua máquina. Após a instalação, você deve iniciar o expo com o comando:
-- npx expo start
++ npx expo start
 Para visualiar o projeto, eu utilizei o celular conectado diretamente com o cabo. Mas para testá-los em diferentes telas (responsividade), eu utilizei a funcionalidade
 Web.
 
